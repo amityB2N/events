@@ -1,1 +1,25 @@
-# events
+# Project Name
+
+Short project description goes here.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide a step-by-step guide on how to install your project.
+
+```bash
+npm install
+
+
+
+## Recent Commits
+- **feat:** Add user authentication
+- **fix:** Resolve login page styling issue
+- **mod:** Update API endpoint for user data
+- **add:** Add new utility function
